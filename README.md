@@ -6,7 +6,7 @@ pip install requests
 
 # Information
   GetSeTimePrice (C) 2023 Anders Persson \
-  __Tax and other fee is included read more about the API at__ \
+  __Tax and other fee is NOT included read more about the API at__ \
   Using https://www.elprisetjustnu.se/elpris-api
         
 ## Areacodes
